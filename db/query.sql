@@ -1,4 +1,4 @@
-\c employees_db;
+\c employee_tracker_db;
 
 SELECT * FROM department;
 

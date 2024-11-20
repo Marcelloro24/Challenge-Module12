@@ -1,4 +1,4 @@
-\c employees_db;
+\c employee_tracker_db;
 
 INSERT INTO department(name)
 VALUES ('Sales'),
